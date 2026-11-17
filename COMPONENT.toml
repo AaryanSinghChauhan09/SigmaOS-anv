@@ -3,7 +3,7 @@ name = "SigmaOS-anv"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "anv component"
+description = "ANV"
 upstream = []
 
 [contract]
